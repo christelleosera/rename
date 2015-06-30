@@ -1,0 +1,9 @@
+('/Users/christelleosera/Downloads/Rename/build/rename/rename',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1435696053)
